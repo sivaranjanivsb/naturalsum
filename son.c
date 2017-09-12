@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 int a[10],sum=0;
 for(i=0;i<10;i++)
